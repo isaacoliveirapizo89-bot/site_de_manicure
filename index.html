@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="/index.js">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <title>Manicure e Pedicure com a Ju</title>
 </head>
 <body>
@@ -48,3 +50,15 @@
         </div>
     
     </div>
+    
+    <div class="botão">
+      <button id="mensagem"  onclick="mostrarMensagem()">
+        Agendar seu Horario
+      </button>
+        <p id="Mensagem" hidden>Aqui coloca o texto</p>
+    </div>
+    <script>function mostrarMensagem(){
+    const texto = document.getElementById("Mensagem");
+    texto.hidden = !texto.hidden;
+}</script>
+</body>
