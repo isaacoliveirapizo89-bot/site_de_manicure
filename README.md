@@ -1,34 +1,40 @@
-# 💅 Manicure e Pedicure com a Ju
+# 💅 Site de Manicure e Pedicure
+
+Projeto de estudo desenvolvido com **HTML, CSS e JavaScript** como proposta de apresentação online para uma profissional autônoma da área de manicure e pedicure.
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido com o objetivo de apresentar uma proposta de site para uma amiga que trabalha com serviços de manicure e pedicure.
+A ideia surgiu por iniciativa própria: criar uma página simples e organizada que pudesse apresentar serviços e informações de um pequeno negócio.
 
-A ideia surgiu por iniciativa própria, buscando criar uma página simples e organizada para apresentar os serviços oferecidos, seus respectivos preços e as informações do negócio.
+O projeto foi desenvolvido e apresentado como uma proposta, mas não teve continuidade comercial.
 
-O site foi desenvolvido utilizando **HTML, CSS e JavaScript**, com o objetivo de colocar em prática meus conhecimentos em desenvolvimento web e explorar como a tecnologia pode ajudar profissionais autônomos a apresentar seus serviços na internet.
-
-**Importante:** os preços exibidos no site são valores demonstrativos definidos durante o desenvolvimento e não representam necessariamente os preços reais praticados pela profissional.
-
-O projeto foi apresentado como uma proposta, mas não teve continuidade comercial.
+**Importante:** os preços exibidos na página são demonstrativos, definidos durante o desenvolvimento. Eles não devem ser considerados valores reais ou atuais da profissional.
 
 ## 🛠️ Tecnologias utilizadas
 
-- **HTML5:** estruturação da página.
-- **CSS3:** estilização e organização visual.
-- **JavaScript:** implementação de funcionalidades e interatividade.
+- **HTML5:** estrutura e conteúdo da página.
+- **CSS3:** estilos e apresentação visual.
+- **JavaScript:** recursos de interatividade implementados no projeto.
 
 ## 🎯 Objetivos e aprendizados
 
-- Praticar o desenvolvimento de páginas web.
-- Aplicar conhecimentos de HTML, CSS e JavaScript em um projeto prático.
-- Explorar a criação de uma página voltada à apresentação de serviços.
-- Desenvolver a iniciativa de identificar necessidades e propor soluções utilizando tecnologia.
+- Praticar a criação de páginas web.
+- Aplicar HTML, CSS e JavaScript em um projeto prático.
+- Organizar conteúdo para apresentar serviços.
+- Entender como uma página web pode ajudar profissionais autônomos a divulgar seu trabalho.
+- Exercitar iniciativa, planejamento e desenvolvimento de uma proposta.
 
-## 📚 Status do projeto
+## ▶️ Como visualizar
 
-Projeto desenvolvido para fins de estudo e apresentação de uma proposta, sem continuidade comercial.
+1. Faça o download ou clone este repositório.
+2. Abra a pasta do projeto.
+3. Abra o arquivo `index.html` em um navegador.
 
----
+## 📍 Status
 
-Desenvolvido por **Isaac Oliveira Pizo**.
+Projeto desenvolvido para estudo e apresentação de uma proposta. Pode receber melhorias conforme meus conhecimentos em desenvolvimento web evoluírem.
+
+## 👨‍💻 Autor
+
+**Isaac Oliveira Pizo**  
+Estudante do Ensino Médio e do curso técnico em Desenvolvimento de Sistemas.
